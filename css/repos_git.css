@@ -1,0 +1,22 @@
+/* hello this is for repos css */
+.repos{
+    display: grid;
+    list-style: none;
+}
+
+.repos li{
+    background: #f3f3f3;
+    padding: 5px;
+    margin: 10px 0;
+    border-bottom: 20px solid rgb(15, 15, 15);
+}
+
+.repo-title{
+    
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.repos-desc{
+    padding-bottom: 10px;
+}
